@@ -1,0 +1,25 @@
+const frequency = [
+  { id: 0, value: 262 },
+  { id: 1, value: 294 },
+  { id: 2, value: 330 },
+  { id: 3, value: 349 },
+  { id: 4, value: 392 },
+  { id: 5, value: 440 },
+  { id: 6, value: 494 },
+
+  { id: 7, value: 523 },
+  { id: 8, value: 587 },
+  { id: 9, value: 659 },
+  { id: 10, value: 698 },
+  { id: 11, value: 784 },
+  { id: 12, value: 880 },
+  { id: 13, value: 988 },
+
+  { id: 14, value: 1047 },
+  { id: 15, value: 1175 },
+  { id: 16, value: 1319 },
+  { id: 17, value: 1397 },
+  { id: 18, value: 1568 },
+  { id: 19, value: 1760 },
+  { id: 20, value: 1967 },
+];

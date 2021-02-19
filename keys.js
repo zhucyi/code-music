@@ -1,0 +1,32 @@
+const keyJudge = [
+  'default',
+  'switch',
+  'case',
+  'while',
+  'of',
+  'for',
+  'break',
+  'continue',
+  'else',
+  'if',
+  'do',
+  'goto',
+  'return',
+  'function',
+  'void',
+];
+
+const keyDefine = [
+  'var',
+  'const',
+  'let',
+  'char',
+  'double',
+  'enum',
+  'int',
+  'long',
+  'short',
+  'signed',
+  'static',
+  'string',
+];
